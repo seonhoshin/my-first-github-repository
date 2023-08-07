@@ -1,6 +1,2 @@
-first1
-first2
-+++++++++++
-
-second1
-second2
+ABCD
+EFGH
